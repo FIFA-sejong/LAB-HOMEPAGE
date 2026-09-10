@@ -37,7 +37,7 @@ const FIFA_DATA = {
     {
       eyebrow: "FINANCIAL AI",
       title: "Intelligence for financial decisions.",
-      text: "We develop AI methods for financial markets, portfolio intelligence, FinTech, and data-driven decision making.",
+      text: "이상거래 탐지, 개인화 포트폴리오, 신용 리스크 평가 등 금융 의사결정 문제를 연구합니다.",
       visual: "finance",
       link: "research/",
       linkText: "Explore Financial AI"
