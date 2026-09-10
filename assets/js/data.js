@@ -43,8 +43,8 @@ const FIFA_DATA = {
       linkText: "Explore Financial AI"
     },
     {
-      eyebrow: "FORECASTING ANALYTICS",
-      title: "Learning from time, dynamics, and uncertainty.",
+      eyebrow: "Research 02",
+      title: "Forecasting Analytics: Learning from time, dynamics, and uncertainty.",
       text: "Our research studies forecasting, anomaly detection, and spatio-temporal intelligence for complex real-world data.",
       visual: "forecast",
       link: "research/",
