@@ -116,7 +116,7 @@ const FIFA_DATA = {
     lab: "Daeyang AI Center, Room 812",
     email: "yylee93@sejong.ac.kr",
     phone: "+82-2-3408-3196",
-    image: "",
+    image: "assets/images/professor.jpeg",
     bio:
       "My research focuses on artificial intelligence for decision making, with applications in time-series forecasting, financial AI, FinTech, blockchain economics, and emerging intelligent physical systems.",
     interests: [
