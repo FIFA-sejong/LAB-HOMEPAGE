@@ -35,9 +35,9 @@ const FIFA_DATA = {
 
   heroSlides: [
     {
-      eyebrow: "Intelligence for financial decisions",
-      title: "Financial AI",
-      text: "이상거래 탐지, 개인화 포트폴리오, 신용 리스크 평가 등 금융 의사결정 문제를 연구합니다.",
+      eyebrow: "Reserach 01",
+      title: "Financial AI for Intelligent Decisions",
+      text: "금융시장 예측, 이상거래 탐지, 개인화 포트폴리오 및 리스크 분석을 위한 데이터 기반 AI 의사결정 기술을 연구합니다.",
       visual: "finance",
       link: "research/",
       linkText: "Explore Financial AI"
