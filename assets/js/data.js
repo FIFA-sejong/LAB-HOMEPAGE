@@ -37,17 +37,15 @@ const FIFA_DATA = {
     {
       eyebrow: "FINANCIAL AI",
       title: "Financial AI for Intelligent Decisions",
-      text: "금융시장 예측, 이상거래 탐지, 개인화 포트폴리오와 리스크
-         분석 문제를 연구합니다.",
+      text: "금융시장 예측, 이상거래 탐지, 개인화 포트폴리오와 리스크 분석 문제를 연구합니다.",
       visual: "finance",
       link: "research/",
       linkText: "Explore Financial AI"
     },
     {
-      eyebrow: "FORECASTING ANLYTICS",
+      eyebrow: "FORECASTING ANALYTICS",
       title: "Forecasting Analytics for Dynamic Systems",
-      text: "시계열 예측, 수요 분석, 시공간 모델링을 통해 복잡한 동적
-         시스템의 불확실성을 다룹니다.",
+      text: "시계열 예측, 수요 분석, 시공간 모델링을 통해 복잡한 동적 시스템의 불확실성을 다룹니다.",
       visual: "forecast",
       link: "research/",
       linkText: "Explore Forecasting"
