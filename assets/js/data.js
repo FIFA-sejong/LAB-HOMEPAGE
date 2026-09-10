@@ -44,7 +44,7 @@ const FIFA_DATA = {
     },
     {
       eyebrow: "Research 02",
-      title: "Forecasting Intelligence for Dynamic Systems",
+      title: "Forecasting Analytics for Dynamic Systems",
       text: "시계열 예측, 이상탐지 및 시공간 분석을 통해 복잡한 동적 시스템의 변화와 불확실성을 모델링합니다.",
       visual: "forecast",
       link: "research/",
@@ -52,7 +52,7 @@ const FIFA_DATA = {
     },
     {
       eyebrow: "Research 03",
-      title: "Intelligent Physical Systems.",
+      title: "Intelligent Physical Systems",
       text: "온디바이스 AI, 협동로봇, 멀티모달 인지 및 의사결정을 통해 지능형 물리 시스템으로 연구영역을 확장하고 있습니다.",
       visual: "robot",
       link: "projects/",
